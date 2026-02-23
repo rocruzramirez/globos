@@ -10,7 +10,7 @@ class Globo
     vx = random(-0.25, 0.25);
     vy = random(-2, -0.5);
     // Colores aleatorios para darle variedad
-    r = random(0, 255);
+    r = random(170, 255);
     g = random(0, 255);
     b = random(0, 255);
   }
